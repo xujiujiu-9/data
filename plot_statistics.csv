@@ -1,0 +1,32 @@
+﻿Paper,Table-based plot,Line chart,Bar chart,Pie chart,Scatter plot,Histogram,Density plot,Dot plot,Box plot/Violin plot,Heatmap,Network,ROC curve,P-R curve,Confusion matrix,Parallel coordinate plot
+Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic,0,0,9,0,0,0,0,0,0,6,0,0,0,6,0
+"Performance Evaluation in Machine Learning: The Good, the Bad, the Ugly, and the Way Forward",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Automated Breast Cancer Diagnosis Based on Machine Learning Algorithms,3,10,2,0,1,0,0,0,0,0,0,9,0,0,0
+Evaluation of Supervised Classification Algorithms for Human Activity Recognition with Inertial Sensors,1,0,1,0,0,0,0,0,0,2,0,0,0,2,1
+Machine Learning in Agriculture: A Review,15,0,3,1,0,0,0,0,0,0,0,0,0,0,0
+The Difference Between Precision-recall and ROC Curves for Evaluating the Performance of Credit Card Fraud Detection Models,3,4,0,0,0,1,0,0,0,1,0,4,0,1,0
+The Machine Learning-Based Dropout Early Warning System for Improving the Performance of Dropout Prediction,4,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+Review of Deep Learning Algorithms and Architectures,4,5,0,0,1,0,0,0,0,0,7,0,0,0,0
+Equality of Opportunity in Supervised Learning,0,7,0,0,0,0,0,2,0,0,0,3,0,0,0
+Network Dissection: Quantifying Interpretability of Deep Visual Representations,3,4,6,0,1,0,0,0,0,0,0,0,0,0,0
+Do Convolutional Neural Networks Learn Class Hierarchy?,1,0,0,0,0,0,0,0,0,4,0,0,0,4,0
+The social dilemma of autonomous vehicles,0,0,0,0,0,2,0,0,5,0,0,0,0,0,0
+Comparison of the Performance of Machine Learning Models in Representing High-Dimensional Free Energy Surfaces and Generating Observables,0,4,9,0,1,0,0,0,0,0,0,0,0,0,0
+"Advanced Meta-heuristics, Convolutional Neural Networks, and Feature Selectors for Efﬁcient COVID-19 X-ray Chest Image Classiﬁcation",14,6,0,0,0,1,0,2,2,0,1,3,0,0,0
+Clustervision: Visual Supervision of Unsupervised Clustering,0,0,8,0,6,0,1,0,0,0,0,0,0,0,5
+Guidelines for Human-AI Interaction,4,0,2,0,0,0,0,0,0,4,0,0,0,0,0
+Towards better analysis of machine learning models: A visual analytics perspective,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0
+A survey of surveys on the use of visualization for interpreting machine learning models,7,0,2,0,1,0,0,0,0,1,2,0,0,0,0
+Visualization and Machine Learning for Data Center Management,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+Comparing Machine Learning Algorithms for Predicting Acute Kidney Injury,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+A Preliminary Performance Comparison of Five Machine Learning Algorithms for Practical IP Traffic Flow Classification,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+Comparing Machine Learning Algorithms for Predicting DrugInduced Liver Injury (DILI),3,0,0,0,0,0,0,0,2,1,0,0,0,0,0
+Mapping land-cover modifications over large areas: A comparison of machine learning algorithms,4,0,4,2,0,0,0,0,2,0,0,0,0,0,0
+"Geological mapping using remote sensing data: A comparison of ﬁve machine learning algorithms, their response to variations in the spatial distribution of training data and the use of explicit spatial information",3,3,10,0,0,0,0,0,3,0,0,0,0,0,0
+Predictive modeling for US commercial building energy use: A comparison of existing statistical and machine learning algorithms using CBECS microdata,12,0,0,0,4,20,0,0,0,1,1,0,0,1,0
+Comparing Machine Learning Classifiers for Object-Based Land Cover Classification Using Very High Resolution Imagery,3,4,0,0,0,0,0,0,0,8,0,0,0,0,0
+Prediction of daily global solar radiation using different machine learning algorithms: Evaluation and comparison,4,12,0,0,4,0,0,0,0,0,0,0,0,0,0
+VizML: A Machine Learning Approach to Visualization Recommendation,5,1,3,0,1,2,0,0,2,0,0,0,0,0,0
+Deep Learning for Event-Driven Stock Prediction,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0
+A Recurrent Neural Network Approach in Predicting Daily Stock Prices,5,0,2,0,0,0,0,0,0,0,3,0,0,0,0
