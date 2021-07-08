@@ -1,0 +1,466 @@
+﻿Paper,Chart,Count
+P01,Table-based plot,1
+P02,Table-based plot,0
+P03,Table-based plot,0
+P04,Table-based plot,3
+P05,Table-based plot,1
+P06,Table-based plot,15
+P07,Table-based plot,3
+P08,Table-based plot,4
+P09,Table-based plot,4
+P10,Table-based plot,0
+P11,Table-based plot,3
+P12,Table-based plot,1
+P13,Table-based plot,0
+P14,Table-based plot,0
+P15,Table-based plot,14
+P16,Table-based plot,0
+P17,Table-based plot,4
+P18,Table-based plot,0
+P19,Table-based plot,7
+P20,Table-based plot,0
+P21,Table-based plot,2
+P22,Table-based plot,2
+P23,Table-based plot,3
+P24,Table-based plot,4
+P25,Table-based plot,3
+P26,Table-based plot,12
+P27,Table-based plot,3
+P28,Table-based plot,4
+P29,Table-based plot,5
+P30,Table-based plot,5
+P31,Table-based plot,5
+P01,Line chart,0
+P02,Line chart,0
+P03,Line chart,1
+P04,Line chart,10
+P05,Line chart,0
+P06,Line chart,0
+P07,Line chart,4
+P08,Line chart,1
+P09,Line chart,5
+P10,Line chart,7
+P11,Line chart,4
+P12,Line chart,0
+P13,Line chart,0
+P14,Line chart,4
+P15,Line chart,6
+P16,Line chart,0
+P17,Line chart,0
+P18,Line chart,0
+P19,Line chart,0
+P20,Line chart,1
+P21,Line chart,1
+P22,Line chart,0
+P23,Line chart,0
+P24,Line chart,0
+P25,Line chart,3
+P26,Line chart,0
+P27,Line chart,4
+P28,Line chart,12
+P29,Line chart,1
+P30,Line chart,2
+P31,Line chart,0
+P01,Bar chart,0
+P02,Bar chart,9
+P03,Bar chart,0
+P04,Bar chart,2
+P05,Bar chart,1
+P06,Bar chart,3
+P07,Bar chart,0
+P08,Bar chart,0
+P09,Bar chart,0
+P10,Bar chart,0
+P11,Bar chart,6
+P12,Bar chart,0
+P13,Bar chart,0
+P14,Bar chart,9
+P15,Bar chart,0
+P16,Bar chart,8
+P17,Bar chart,2
+P18,Bar chart,0
+P19,Bar chart,2
+P20,Bar chart,2
+P21,Bar chart,0
+P22,Bar chart,6
+P23,Bar chart,0
+P24,Bar chart,4
+P25,Bar chart,10
+P26,Bar chart,0
+P27,Bar chart,0
+P28,Bar chart,0
+P29,Bar chart,3
+P30,Bar chart,3
+P31,Bar chart,2
+P01,Pie chart,0
+P02,Pie chart,0
+P03,Pie chart,0
+P04,Pie chart,0
+P05,Pie chart,0
+P06,Pie chart,1
+P07,Pie chart,0
+P08,Pie chart,0
+P09,Pie chart,0
+P10,Pie chart,0
+P11,Pie chart,0
+P12,Pie chart,0
+P13,Pie chart,0
+P14,Pie chart,0
+P15,Pie chart,0
+P16,Pie chart,0
+P17,Pie chart,0
+P18,Pie chart,0
+P19,Pie chart,0
+P20,Pie chart,0
+P21,Pie chart,0
+P22,Pie chart,0
+P23,Pie chart,0
+P24,Pie chart,2
+P25,Pie chart,0
+P26,Pie chart,0
+P27,Pie chart,0
+P28,Pie chart,0
+P29,Pie chart,0
+P30,Pie chart,0
+P31,Pie chart,0
+P01,Scatter plot,1
+P02,Scatter plot,0
+P03,Scatter plot,0
+P04,Scatter plot,1
+P05,Scatter plot,0
+P06,Scatter plot,0
+P07,Scatter plot,0
+P08,Scatter plot,0
+P09,Scatter plot,1
+P10,Scatter plot,0
+P11,Scatter plot,1
+P12,Scatter plot,0
+P13,Scatter plot,0
+P14,Scatter plot,1
+P15,Scatter plot,0
+P16,Scatter plot,6
+P17,Scatter plot,0
+P18,Scatter plot,1
+P19,Scatter plot,1
+P20,Scatter plot,0
+P21,Scatter plot,0
+P22,Scatter plot,0
+P23,Scatter plot,0
+P24,Scatter plot,0
+P25,Scatter plot,0
+P26,Scatter plot,4
+P27,Scatter plot,0
+P28,Scatter plot,4
+P29,Scatter plot,1
+P30,Scatter plot,0
+P31,Scatter plot,0
+P01,Histogram,0
+P02,Histogram,0
+P03,Histogram,0
+P04,Histogram,0
+P05,Histogram,0
+P06,Histogram,0
+P07,Histogram,1
+P08,Histogram,0
+P09,Histogram,0
+P10,Histogram,0
+P11,Histogram,0
+P12,Histogram,0
+P13,Histogram,2
+P14,Histogram,0
+P15,Histogram,1
+P16,Histogram,0
+P17,Histogram,0
+P18,Histogram,0
+P19,Histogram,0
+P20,Histogram,0
+P21,Histogram,0
+P22,Histogram,0
+P23,Histogram,0
+P24,Histogram,0
+P25,Histogram,0
+P26,Histogram,20
+P27,Histogram,0
+P28,Histogram,0
+P29,Histogram,2
+P30,Histogram,0
+P31,Histogram,0
+P01,Density plot,0
+P02,Density plot,0
+P03,Density plot,0
+P04,Density plot,0
+P05,Density plot,0
+P06,Density plot,0
+P07,Density plot,0
+P08,Density plot,0
+P09,Density plot,0
+P10,Density plot,0
+P11,Density plot,0
+P12,Density plot,0
+P13,Density plot,0
+P14,Density plot,0
+P15,Density plot,0
+P16,Density plot,1
+P17,Density plot,0
+P18,Density plot,0
+P19,Density plot,0
+P20,Density plot,0
+P21,Density plot,0
+P22,Density plot,0
+P23,Density plot,0
+P24,Density plot,0
+P25,Density plot,0
+P26,Density plot,0
+P27,Density plot,0
+P28,Density plot,0
+P29,Density plot,0
+P30,Density plot,0
+P31,Density plot,0
+P01,Dot plot,0
+P02,Dot plot,0
+P03,Dot plot,0
+P04,Dot plot,0
+P05,Dot plot,0
+P06,Dot plot,0
+P07,Dot plot,0
+P08,Dot plot,0
+P09,Dot plot,0
+P10,Dot plot,2
+P11,Dot plot,0
+P12,Dot plot,0
+P13,Dot plot,0
+P14,Dot plot,0
+P15,Dot plot,2
+P16,Dot plot,0
+P17,Dot plot,0
+P18,Dot plot,0
+P19,Dot plot,0
+P20,Dot plot,0
+P21,Dot plot,0
+P22,Dot plot,0
+P23,Dot plot,0
+P24,Dot plot,0
+P25,Dot plot,0
+P26,Dot plot,0
+P27,Dot plot,0
+P28,Dot plot,0
+P29,Dot plot,0
+P30,Dot plot,0
+P31,Dot plot,0
+P01,Box plot/Violin plot,0
+P02,Box plot/Violin plot,0
+P03,Box plot/Violin plot,0
+P04,Box plot/Violin plot,0
+P05,Box plot/Violin plot,0
+P06,Box plot/Violin plot,0
+P07,Box plot/Violin plot,0
+P08,Box plot/Violin plot,0
+P09,Box plot/Violin plot,0
+P10,Box plot/Violin plot,0
+P11,Box plot/Violin plot,0
+P12,Box plot/Violin plot,0
+P13,Box plot/Violin plot,5
+P14,Box plot/Violin plot,0
+P15,Box plot/Violin plot,2
+P16,Box plot/Violin plot,0
+P17,Box plot/Violin plot,0
+P18,Box plot/Violin plot,0
+P19,Box plot/Violin plot,0
+P20,Box plot/Violin plot,0
+P21,Box plot/Violin plot,0
+P22,Box plot/Violin plot,0
+P23,Box plot/Violin plot,2
+P24,Box plot/Violin plot,2
+P25,Box plot/Violin plot,3
+P26,Box plot/Violin plot,0
+P27,Box plot/Violin plot,0
+P28,Box plot/Violin plot,0
+P29,Box plot/Violin plot,2
+P30,Box plot/Violin plot,0
+P31,Box plot/Violin plot,0
+P01,Heatmap,0
+P02,Heatmap,6
+P03,Heatmap,0
+P04,Heatmap,0
+P05,Heatmap,2
+P06,Heatmap,0
+P07,Heatmap,1
+P08,Heatmap,0
+P09,Heatmap,0
+P10,Heatmap,0
+P11,Heatmap,0
+P12,Heatmap,4
+P13,Heatmap,0
+P14,Heatmap,0
+P15,Heatmap,0
+P16,Heatmap,0
+P17,Heatmap,4
+P18,Heatmap,0
+P19,Heatmap,1
+P20,Heatmap,0
+P21,Heatmap,0
+P22,Heatmap,0
+P23,Heatmap,1
+P24,Heatmap,0
+P25,Heatmap,0
+P26,Heatmap,1
+P27,Heatmap,8
+P28,Heatmap,0
+P29,Heatmap,0
+P30,Heatmap,0
+P31,Heatmap,0
+P01,Network,1
+P02,Network,0
+P03,Network,0
+P04,Network,0
+P05,Network,0
+P06,Network,0
+P07,Network,0
+P08,Network,0
+P09,Network,7
+P10,Network,0
+P11,Network,0
+P12,Network,0
+P13,Network,0
+P14,Network,0
+P15,Network,1
+P16,Network,0
+P17,Network,0
+P18,Network,4
+P19,Network,2
+P20,Network,0
+P21,Network,0
+P22,Network,0
+P23,Network,0
+P24,Network,0
+P25,Network,0
+P26,Network,1
+P27,Network,0
+P28,Network,0
+P29,Network,0
+P30,Network,0
+P31,Network,3
+P01,ROC curve,0
+P02,ROC curve,0
+P03,ROC curve,1
+P04,ROC curve,9
+P05,ROC curve,0
+P06,ROC curve,0
+P07,ROC curve,4
+P08,ROC curve,1
+P09,ROC curve,0
+P10,ROC curve,3
+P11,ROC curve,0
+P12,ROC curve,0
+P13,ROC curve,0
+P14,ROC curve,0
+P15,ROC curve,3
+P16,ROC curve,0
+P17,ROC curve,0
+P18,ROC curve,0
+P19,ROC curve,0
+P20,ROC curve,0
+P21,ROC curve,1
+P22,ROC curve,0
+P23,ROC curve,0
+P24,ROC curve,0
+P25,ROC curve,0
+P26,ROC curve,0
+P27,ROC curve,0
+P28,ROC curve,0
+P29,ROC curve,0
+P30,ROC curve,0
+P31,ROC curve,0
+P01,P-R curve,0
+P02,P-R curve,0
+P03,P-R curve,0
+P04,P-R curve,0
+P05,P-R curve,0
+P06,P-R curve,0
+P07,P-R curve,0
+P08,P-R curve,1
+P09,P-R curve,0
+P10,P-R curve,0
+P11,P-R curve,0
+P12,P-R curve,0
+P13,P-R curve,0
+P14,P-R curve,0
+P15,P-R curve,0
+P16,P-R curve,0
+P17,P-R curve,0
+P18,P-R curve,0
+P19,P-R curve,0
+P20,P-R curve,0
+P21,P-R curve,0
+P22,P-R curve,0
+P23,P-R curve,0
+P24,P-R curve,0
+P25,P-R curve,0
+P26,P-R curve,0
+P27,P-R curve,0
+P28,P-R curve,0
+P29,P-R curve,0
+P30,P-R curve,0
+P31,P-R curve,0
+P01,Confusion matrix,0
+P02,Confusion matrix,6
+P03,Confusion matrix,0
+P04,Confusion matrix,0
+P05,Confusion matrix,2
+P06,Confusion matrix,0
+P07,Confusion matrix,1
+P08,Confusion matrix,0
+P09,Confusion matrix,0
+P10,Confusion matrix,0
+P11,Confusion matrix,0
+P12,Confusion matrix,4
+P13,Confusion matrix,0
+P14,Confusion matrix,0
+P15,Confusion matrix,0
+P16,Confusion matrix,0
+P17,Confusion matrix,0
+P18,Confusion matrix,0
+P19,Confusion matrix,0
+P20,Confusion matrix,0
+P21,Confusion matrix,0
+P22,Confusion matrix,0
+P23,Confusion matrix,0
+P24,Confusion matrix,0
+P25,Confusion matrix,0
+P26,Confusion matrix,1
+P27,Confusion matrix,0
+P28,Confusion matrix,0
+P29,Confusion matrix,0
+P30,Confusion matrix,0
+P31,Confusion matrix,0
+P01,Parallel coordinate plot,0
+P02,Parallel coordinate plot,0
+P03,Parallel coordinate plot,0
+P04,Parallel coordinate plot,0
+P05,Parallel coordinate plot,1
+P06,Parallel coordinate plot,0
+P07,Parallel coordinate plot,0
+P08,Parallel coordinate plot,0
+P09,Parallel coordinate plot,0
+P10,Parallel coordinate plot,0
+P11,Parallel coordinate plot,0
+P12,Parallel coordinate plot,0
+P13,Parallel coordinate plot,0
+P14,Parallel coordinate plot,0
+P15,Parallel coordinate plot,0
+P16,Parallel coordinate plot,5
+P17,Parallel coordinate plot,0
+P18,Parallel coordinate plot,0
+P19,Parallel coordinate plot,0
+P20,Parallel coordinate plot,0
+P21,Parallel coordinate plot,0
+P22,Parallel coordinate plot,0
+P23,Parallel coordinate plot,0
+P24,Parallel coordinate plot,0
+P25,Parallel coordinate plot,0
+P26,Parallel coordinate plot,0
+P27,Parallel coordinate plot,0
+P28,Parallel coordinate plot,0
+P29,Parallel coordinate plot,0
+P30,Parallel coordinate plot,0
+P31,Parallel coordinate plot,0
