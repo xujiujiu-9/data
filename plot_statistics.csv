@@ -1,32 +1,466 @@
-﻿Paper,Table-based plot,Line chart,Bar chart,Pie chart,Scatter plot,Histogram,Density plot,Dot plot,Box plot/Violin plot,Heatmap,Network,ROC curve,P-R curve,Confusion matrix,Parallel coordinate plot
-Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
-A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic,0,0,9,0,0,0,0,0,0,6,0,0,0,6,0
-"Performance Evaluation in Machine Learning: The Good, the Bad, the Ugly, and the Way Forward",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
-Automated Breast Cancer Diagnosis Based on Machine Learning Algorithms,3,10,2,0,1,0,0,0,0,0,0,9,0,0,0
-Evaluation of Supervised Classification Algorithms for Human Activity Recognition with Inertial Sensors,1,0,1,0,0,0,0,0,0,2,0,0,0,2,1
-Machine Learning in Agriculture: A Review,15,0,3,1,0,0,0,0,0,0,0,0,0,0,0
-The Difference Between Precision-recall and ROC Curves for Evaluating the Performance of Credit Card Fraud Detection Models,3,4,0,0,0,1,0,0,0,1,0,4,0,1,0
-The Machine Learning-Based Dropout Early Warning System for Improving the Performance of Dropout Prediction,4,1,0,0,0,0,0,0,0,0,0,1,1,0,0
-Review of Deep Learning Algorithms and Architectures,4,5,0,0,1,0,0,0,0,0,7,0,0,0,0
-Equality of Opportunity in Supervised Learning,0,7,0,0,0,0,0,2,0,0,0,3,0,0,0
-Network Dissection: Quantifying Interpretability of Deep Visual Representations,3,4,6,0,1,0,0,0,0,0,0,0,0,0,0
-Do Convolutional Neural Networks Learn Class Hierarchy?,1,0,0,0,0,0,0,0,0,4,0,0,0,4,0
-The social dilemma of autonomous vehicles,0,0,0,0,0,2,0,0,5,0,0,0,0,0,0
-Comparison of the Performance of Machine Learning Models in Representing High-Dimensional Free Energy Surfaces and Generating Observables,0,4,9,0,1,0,0,0,0,0,0,0,0,0,0
-"Advanced Meta-heuristics, Convolutional Neural Networks, and Feature Selectors for Efﬁcient COVID-19 X-ray Chest Image Classiﬁcation",14,6,0,0,0,1,0,2,2,0,1,3,0,0,0
-Clustervision: Visual Supervision of Unsupervised Clustering,0,0,8,0,6,0,1,0,0,0,0,0,0,0,5
-Guidelines for Human-AI Interaction,4,0,2,0,0,0,0,0,0,4,0,0,0,0,0
-Towards better analysis of machine learning models: A visual analytics perspective,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0
-A survey of surveys on the use of visualization for interpreting machine learning models,7,0,2,0,1,0,0,0,0,1,2,0,0,0,0
-Visualization and Machine Learning for Data Center Management,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0
-Comparing Machine Learning Algorithms for Predicting Acute Kidney Injury,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0
-A Preliminary Performance Comparison of Five Machine Learning Algorithms for Practical IP Traffic Flow Classification,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0
-Comparing Machine Learning Algorithms for Predicting DrugInduced Liver Injury (DILI),3,0,0,0,0,0,0,0,2,1,0,0,0,0,0
-Mapping land-cover modifications over large areas: A comparison of machine learning algorithms,4,0,4,2,0,0,0,0,2,0,0,0,0,0,0
-"Geological mapping using remote sensing data: A comparison of ﬁve machine learning algorithms, their response to variations in the spatial distribution of training data and the use of explicit spatial information",3,3,10,0,0,0,0,0,3,0,0,0,0,0,0
-Predictive modeling for US commercial building energy use: A comparison of existing statistical and machine learning algorithms using CBECS microdata,12,0,0,0,4,20,0,0,0,1,1,0,0,1,0
-Comparing Machine Learning Classifiers for Object-Based Land Cover Classification Using Very High Resolution Imagery,3,4,0,0,0,0,0,0,0,8,0,0,0,0,0
-Prediction of daily global solar radiation using different machine learning algorithms: Evaluation and comparison,4,12,0,0,4,0,0,0,0,0,0,0,0,0,0
-VizML: A Machine Learning Approach to Visualization Recommendation,5,1,3,0,1,2,0,0,2,0,0,0,0,0,0
-Deep Learning for Event-Driven Stock Prediction,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0
-A Recurrent Neural Network Approach in Predicting Daily Stock Prices,5,0,2,0,0,0,0,0,0,0,3,0,0,0,0
+﻿Paper,Chart,Count
+P1,Table-based plot,1
+P2,Table-based plot,0
+P3,Table-based plot,0
+P4,Table-based plot,3
+P5,Table-based plot,1
+P6,Table-based plot,15
+P7,Table-based plot,3
+P8,Table-based plot,4
+P9,Table-based plot,4
+P10,Table-based plot,0
+P11,Table-based plot,3
+P12,Table-based plot,1
+P13,Table-based plot,0
+P14,Table-based plot,0
+P15,Table-based plot,14
+P16,Table-based plot,0
+P17,Table-based plot,4
+P18,Table-based plot,0
+P19,Table-based plot,7
+P20,Table-based plot,0
+P21,Table-based plot,2
+P22,Table-based plot,2
+P23,Table-based plot,3
+P24,Table-based plot,4
+P25,Table-based plot,3
+P26,Table-based plot,12
+P27,Table-based plot,3
+P28,Table-based plot,4
+P29,Table-based plot,5
+P30,Table-based plot,5
+P31,Table-based plot,5
+P1,Line chart,0
+P2,Line chart,0
+P3,Line chart,1
+P4,Line chart,10
+P5,Line chart,0
+P6,Line chart,0
+P7,Line chart,4
+P8,Line chart,1
+P9,Line chart,5
+P10,Line chart,7
+P11,Line chart,4
+P12,Line chart,0
+P13,Line chart,0
+P14,Line chart,4
+P15,Line chart,6
+P16,Line chart,0
+P17,Line chart,0
+P18,Line chart,0
+P19,Line chart,0
+P20,Line chart,1
+P21,Line chart,1
+P22,Line chart,0
+P23,Line chart,0
+P24,Line chart,0
+P25,Line chart,3
+P26,Line chart,0
+P27,Line chart,4
+P28,Line chart,12
+P29,Line chart,1
+P30,Line chart,2
+P31,Line chart,0
+P1,Bar chart,0
+P2,Bar chart,9
+P3,Bar chart,0
+P4,Bar chart,2
+P5,Bar chart,1
+P6,Bar chart,3
+P7,Bar chart,0
+P8,Bar chart,0
+P9,Bar chart,0
+P10,Bar chart,0
+P11,Bar chart,6
+P12,Bar chart,0
+P13,Bar chart,0
+P14,Bar chart,9
+P15,Bar chart,0
+P16,Bar chart,8
+P17,Bar chart,2
+P18,Bar chart,0
+P19,Bar chart,2
+P20,Bar chart,2
+P21,Bar chart,0
+P22,Bar chart,6
+P23,Bar chart,0
+P24,Bar chart,4
+P25,Bar chart,10
+P26,Bar chart,0
+P27,Bar chart,0
+P28,Bar chart,0
+P29,Bar chart,3
+P30,Bar chart,3
+P31,Bar chart,2
+P1,Pie chart,0
+P2,Pie chart,0
+P3,Pie chart,0
+P4,Pie chart,0
+P5,Pie chart,0
+P6,Pie chart,1
+P7,Pie chart,0
+P8,Pie chart,0
+P9,Pie chart,0
+P10,Pie chart,0
+P11,Pie chart,0
+P12,Pie chart,0
+P13,Pie chart,0
+P14,Pie chart,0
+P15,Pie chart,0
+P16,Pie chart,0
+P17,Pie chart,0
+P18,Pie chart,0
+P19,Pie chart,0
+P20,Pie chart,0
+P21,Pie chart,0
+P22,Pie chart,0
+P23,Pie chart,0
+P24,Pie chart,2
+P25,Pie chart,0
+P26,Pie chart,0
+P27,Pie chart,0
+P28,Pie chart,0
+P29,Pie chart,0
+P30,Pie chart,0
+P31,Pie chart,0
+P1,Scatter plot,1
+P2,Scatter plot,0
+P3,Scatter plot,0
+P4,Scatter plot,1
+P5,Scatter plot,0
+P6,Scatter plot,0
+P7,Scatter plot,0
+P8,Scatter plot,0
+P9,Scatter plot,1
+P10,Scatter plot,0
+P11,Scatter plot,1
+P12,Scatter plot,0
+P13,Scatter plot,0
+P14,Scatter plot,1
+P15,Scatter plot,0
+P16,Scatter plot,6
+P17,Scatter plot,0
+P18,Scatter plot,1
+P19,Scatter plot,1
+P20,Scatter plot,0
+P21,Scatter plot,0
+P22,Scatter plot,0
+P23,Scatter plot,0
+P24,Scatter plot,0
+P25,Scatter plot,0
+P26,Scatter plot,4
+P27,Scatter plot,0
+P28,Scatter plot,4
+P29,Scatter plot,1
+P30,Scatter plot,0
+P31,Scatter plot,0
+P1,Histogram,0
+P2,Histogram,0
+P3,Histogram,0
+P4,Histogram,0
+P5,Histogram,0
+P6,Histogram,0
+P7,Histogram,1
+P8,Histogram,0
+P9,Histogram,0
+P10,Histogram,0
+P11,Histogram,0
+P12,Histogram,0
+P13,Histogram,2
+P14,Histogram,0
+P15,Histogram,1
+P16,Histogram,0
+P17,Histogram,0
+P18,Histogram,0
+P19,Histogram,0
+P20,Histogram,0
+P21,Histogram,0
+P22,Histogram,0
+P23,Histogram,0
+P24,Histogram,0
+P25,Histogram,0
+P26,Histogram,20
+P27,Histogram,0
+P28,Histogram,0
+P29,Histogram,2
+P30,Histogram,0
+P31,Histogram,0
+P1,Density plot,0
+P2,Density plot,0
+P3,Density plot,0
+P4,Density plot,0
+P5,Density plot,0
+P6,Density plot,0
+P7,Density plot,0
+P8,Density plot,0
+P9,Density plot,0
+P10,Density plot,0
+P11,Density plot,0
+P12,Density plot,0
+P13,Density plot,0
+P14,Density plot,0
+P15,Density plot,0
+P16,Density plot,1
+P17,Density plot,0
+P18,Density plot,0
+P19,Density plot,0
+P20,Density plot,0
+P21,Density plot,0
+P22,Density plot,0
+P23,Density plot,0
+P24,Density plot,0
+P25,Density plot,0
+P26,Density plot,0
+P27,Density plot,0
+P28,Density plot,0
+P29,Density plot,0
+P30,Density plot,0
+P31,Density plot,0
+P1,Dot plot,0
+P2,Dot plot,0
+P3,Dot plot,0
+P4,Dot plot,0
+P5,Dot plot,0
+P6,Dot plot,0
+P7,Dot plot,0
+P8,Dot plot,0
+P9,Dot plot,0
+P10,Dot plot,2
+P11,Dot plot,0
+P12,Dot plot,0
+P13,Dot plot,0
+P14,Dot plot,0
+P15,Dot plot,2
+P16,Dot plot,0
+P17,Dot plot,0
+P18,Dot plot,0
+P19,Dot plot,0
+P20,Dot plot,0
+P21,Dot plot,0
+P22,Dot plot,0
+P23,Dot plot,0
+P24,Dot plot,0
+P25,Dot plot,0
+P26,Dot plot,0
+P27,Dot plot,0
+P28,Dot plot,0
+P29,Dot plot,0
+P30,Dot plot,0
+P31,Dot plot,0
+P1,Box plot/Violin plot,0
+P2,Box plot/Violin plot,0
+P3,Box plot/Violin plot,0
+P4,Box plot/Violin plot,0
+P5,Box plot/Violin plot,0
+P6,Box plot/Violin plot,0
+P7,Box plot/Violin plot,0
+P8,Box plot/Violin plot,0
+P9,Box plot/Violin plot,0
+P10,Box plot/Violin plot,0
+P11,Box plot/Violin plot,0
+P12,Box plot/Violin plot,0
+P13,Box plot/Violin plot,5
+P14,Box plot/Violin plot,0
+P15,Box plot/Violin plot,2
+P16,Box plot/Violin plot,0
+P17,Box plot/Violin plot,0
+P18,Box plot/Violin plot,0
+P19,Box plot/Violin plot,0
+P20,Box plot/Violin plot,0
+P21,Box plot/Violin plot,0
+P22,Box plot/Violin plot,0
+P23,Box plot/Violin plot,2
+P24,Box plot/Violin plot,2
+P25,Box plot/Violin plot,3
+P26,Box plot/Violin plot,0
+P27,Box plot/Violin plot,0
+P28,Box plot/Violin plot,0
+P29,Box plot/Violin plot,2
+P30,Box plot/Violin plot,0
+P31,Box plot/Violin plot,0
+P1,Heatmap,0
+P2,Heatmap,6
+P3,Heatmap,0
+P4,Heatmap,0
+P5,Heatmap,2
+P6,Heatmap,0
+P7,Heatmap,1
+P8,Heatmap,0
+P9,Heatmap,0
+P10,Heatmap,0
+P11,Heatmap,0
+P12,Heatmap,4
+P13,Heatmap,0
+P14,Heatmap,0
+P15,Heatmap,0
+P16,Heatmap,0
+P17,Heatmap,4
+P18,Heatmap,0
+P19,Heatmap,1
+P20,Heatmap,0
+P21,Heatmap,0
+P22,Heatmap,0
+P23,Heatmap,1
+P24,Heatmap,0
+P25,Heatmap,0
+P26,Heatmap,1
+P27,Heatmap,8
+P28,Heatmap,0
+P29,Heatmap,0
+P30,Heatmap,0
+P31,Heatmap,0
+P1,Network,1
+P2,Network,0
+P3,Network,0
+P4,Network,0
+P5,Network,0
+P6,Network,0
+P7,Network,0
+P8,Network,0
+P9,Network,7
+P10,Network,0
+P11,Network,0
+P12,Network,0
+P13,Network,0
+P14,Network,0
+P15,Network,1
+P16,Network,0
+P17,Network,0
+P18,Network,4
+P19,Network,2
+P20,Network,0
+P21,Network,0
+P22,Network,0
+P23,Network,0
+P24,Network,0
+P25,Network,0
+P26,Network,1
+P27,Network,0
+P28,Network,0
+P29,Network,0
+P30,Network,0
+P31,Network,3
+P1,ROC curve,0
+P2,ROC curve,0
+P3,ROC curve,1
+P4,ROC curve,9
+P5,ROC curve,0
+P6,ROC curve,0
+P7,ROC curve,4
+P8,ROC curve,1
+P9,ROC curve,0
+P10,ROC curve,3
+P11,ROC curve,0
+P12,ROC curve,0
+P13,ROC curve,0
+P14,ROC curve,0
+P15,ROC curve,3
+P16,ROC curve,0
+P17,ROC curve,0
+P18,ROC curve,0
+P19,ROC curve,0
+P20,ROC curve,0
+P21,ROC curve,1
+P22,ROC curve,0
+P23,ROC curve,0
+P24,ROC curve,0
+P25,ROC curve,0
+P26,ROC curve,0
+P27,ROC curve,0
+P28,ROC curve,0
+P29,ROC curve,0
+P30,ROC curve,0
+P31,ROC curve,0
+P1,P-R curve,0
+P2,P-R curve,0
+P3,P-R curve,0
+P4,P-R curve,0
+P5,P-R curve,0
+P6,P-R curve,0
+P7,P-R curve,0
+P8,P-R curve,1
+P9,P-R curve,0
+P10,P-R curve,0
+P11,P-R curve,0
+P12,P-R curve,0
+P13,P-R curve,0
+P14,P-R curve,0
+P15,P-R curve,0
+P16,P-R curve,0
+P17,P-R curve,0
+P18,P-R curve,0
+P19,P-R curve,0
+P20,P-R curve,0
+P21,P-R curve,0
+P22,P-R curve,0
+P23,P-R curve,0
+P24,P-R curve,0
+P25,P-R curve,0
+P26,P-R curve,0
+P27,P-R curve,0
+P28,P-R curve,0
+P29,P-R curve,0
+P30,P-R curve,0
+P31,P-R curve,0
+P1,Confusion matrix,0
+P2,Confusion matrix,6
+P3,Confusion matrix,0
+P4,Confusion matrix,0
+P5,Confusion matrix,2
+P6,Confusion matrix,0
+P7,Confusion matrix,1
+P8,Confusion matrix,0
+P9,Confusion matrix,0
+P10,Confusion matrix,0
+P11,Confusion matrix,0
+P12,Confusion matrix,4
+P13,Confusion matrix,0
+P14,Confusion matrix,0
+P15,Confusion matrix,0
+P16,Confusion matrix,0
+P17,Confusion matrix,0
+P18,Confusion matrix,0
+P19,Confusion matrix,0
+P20,Confusion matrix,0
+P21,Confusion matrix,0
+P22,Confusion matrix,0
+P23,Confusion matrix,0
+P24,Confusion matrix,0
+P25,Confusion matrix,0
+P26,Confusion matrix,1
+P27,Confusion matrix,0
+P28,Confusion matrix,0
+P29,Confusion matrix,0
+P30,Confusion matrix,0
+P31,Confusion matrix,0
+P1,Parallel coordinate plot,0
+P2,Parallel coordinate plot,0
+P3,Parallel coordinate plot,0
+P4,Parallel coordinate plot,0
+P5,Parallel coordinate plot,1
+P6,Parallel coordinate plot,0
+P7,Parallel coordinate plot,0
+P8,Parallel coordinate plot,0
+P9,Parallel coordinate plot,0
+P10,Parallel coordinate plot,0
+P11,Parallel coordinate plot,0
+P12,Parallel coordinate plot,0
+P13,Parallel coordinate plot,0
+P14,Parallel coordinate plot,0
+P15,Parallel coordinate plot,0
+P16,Parallel coordinate plot,5
+P17,Parallel coordinate plot,0
+P18,Parallel coordinate plot,0
+P19,Parallel coordinate plot,0
+P20,Parallel coordinate plot,0
+P21,Parallel coordinate plot,0
+P22,Parallel coordinate plot,0
+P23,Parallel coordinate plot,0
+P24,Parallel coordinate plot,0
+P25,Parallel coordinate plot,0
+P26,Parallel coordinate plot,0
+P27,Parallel coordinate plot,0
+P28,Parallel coordinate plot,0
+P29,Parallel coordinate plot,0
+P30,Parallel coordinate plot,0
+P31,Parallel coordinate plot,0
